@@ -1,0 +1,1 @@
+from .dmdt_is_number import is_number
